@@ -1,11 +1,12 @@
 [
   {
-    "repository": "android_device_google_zuma",
+    "repository": "crdroidandroid/android_device_google_zuma",
     "target_path": "device/google/zuma"
   },
   {
     "repository": "device/google/shusky-kernels/6.1",
     "target_path": "device/google/shusky-kernels/6.1",
-    "remote": "aosp-shusky"
+    "remote": "aosp-shusky",
+    "branch": "refs/tags/android-15.0.0_r34"
   }
 ]
