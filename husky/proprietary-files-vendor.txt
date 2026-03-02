@@ -43,7 +43,6 @@ vendor/bin/hw/android.hardware.dumpstate.3-service
 vendor/bin/hw/android.hardware.edgetpu.logging@service-edgetpu-logging
 vendor/bin/hw/android.hardware.gnss@2.1-service-brcm
 vendor/bin/hw/android.hardware.graphics.allocator-V2-service
-vendor/bin/hw/android.hardware.gxp.logging@service-gxp-logging
 vendor/bin/hw/android.hardware.input.processor-service
 vendor/bin/hw/android.hardware.memtrack-service.pixel
 vendor/bin/hw/android.hardware.neuralnetworks@service-darwinn-aidl
@@ -255,7 +254,6 @@ vendor/etc/init/android.hardware.contexthub-service.generic.rc
 vendor/etc/init/android.hardware.dumpstate.3-service.rc
 vendor/etc/init/android.hardware.edgetpu.logging@service-edgetpu-logging.rc
 vendor/etc/init/android.hardware.graphics.allocator2-aidl-service.rc
-vendor/etc/init/android.hardware.gxp.logging@service-gxp-logging.rc
 vendor/etc/init/android.hardware.input.processor-service.rc
 vendor/etc/init/android.hardware.neuralnetworks@service-darwinn-aidl.rc
 vendor/etc/init/android.hardware.oemlock-service.citadel.rc
