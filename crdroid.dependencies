@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_google_zuma",
+    "target_path": "device/google/zuma"
+  },
+  {
+    "repository": "crdroidandroid/android_device_google_shusky-kernels",
+    "target_path": "device/google/shusky-kernels"
+  }
+]
