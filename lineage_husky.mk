@@ -4,8 +4,14 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+# ADB insecure
+WITH_ADB_INSECURE := true
+
 # Inherit some common stuff
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+
+# Keep userdebug actually debuggable
+PRODUCT_NOT_DEBUGGABLE_IN_USERDEBUG := false
 
 # Inherit device configuration
 DEVICE_CODENAME := husky
