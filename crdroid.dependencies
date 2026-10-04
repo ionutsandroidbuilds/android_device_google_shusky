@@ -1,0 +1,24 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_google_shusky-kernels",
+    "target_path": "device/google/shusky-kernels"
+  },
+  {
+    "repository": "crdroidandroid/android_device_google_zuma",
+    "target_path": "device/google/zuma"
+  },
+  {
+    "repository": "crdroidandroid/android_vendor_bcr",
+    "target_path": "vendor/bcr"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_google_faceunlock",
+    "target_path": "vendor/google/faceunlock",
+    "remote": "crdroid-gitlab"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_google_camera",
+    "target_path": "vendor/google/camera",
+    "remote": "crdroid-gitlab"
+  }
+]
